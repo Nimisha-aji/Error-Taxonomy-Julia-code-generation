@@ -1,0 +1,7 @@
+model,L1_Generation,L2_Semantic,L3_Numerical,L4_Environment,Unclassified
+deepseek_r1,2,9,3,2,0
+llama_3_1_8b,0,14,4,8,1
+llama_3_3_70b,0,8,6,2,0
+llama_4_scout,3,12,8,8,0
+mixtral_8x7b,57,3,3,5,0
+qwen3_32b,18,8,4,0,0
